@@ -1,0 +1,153 @@
+MAHINDRA K N
+Phone: +1 (470)-377-2593 | Email: kmahindra7505@gmail.com
+________________________________________
+ PROFESSIONAL SUMMARY
+•	Having over 12 years of experience in the IT industry with strong expertise in analyzing, designing, developing, testing, and supporting enterprise client-server and N-tier applications using Java and J2EE technologies.
+•	Working through every stage of the Software Development Life Cycle (SDLC) from analyzing requirements and designing solutions to developing, testing, deploying, supporting production systems, and managing changes using Agile Scrum, TDD, and Waterfall approaches.
+•	Comprehensive experience of Java technologies including Core Java, J2EE, Servlets, JSP, JDBC, JMS, XML, Web Services, Struts, Spring, Spring Boot, Hibernate, and modern microservices-based architecture.
+•	Strong hands-on experience designing and implementing RESTful and SOAP web services with secure authentication and authorization using Spring Security, OAuth2, and SAML-based Single Sign-On (SSO).
+•	Proven expertise in building scalable distributed systems using Spring Boot and Spring Cloud, integrating Apache Kafka and JMS for asynchronous and event-driven processing.
+•	Front-end design experience using Angular, ReactJS, JavaScript, HTML5, CSS3, jQuery, and Bootstrap for responsive enterprise web applications.
+•	Strong background working with Oracle, MongoDB and Cassandra databases, writing optimized SQL and PL/SQL procedures for high-performance data access.
+•	Well-versed in cloud-native application deployment using GCP ,AWS and Microsoft Azure with experience in infrastructure setup, monitoring, scaling, and security configuration.
+•	Expertise in implementing CI/CD pipelines using Jenkins ,Maven, and Git and containerized applications using Docker and Deployed them on Kubernetes.
+•	Deployed the systems on Amazon Web Services (AWS) while leveraging services such as S3, SQS, SNS, DynamoDB, Lambda, and CloudWatch.
+•	Deployed microservices on GCP using GKE, Cloud Load Balancing, Cloud SQL, Cloud Storage, Pub/Sub, and Cloud Monitoring (Stackdriver) for highly available and resilient systems.
+•	Strong experience in application monitoring and logging using Splunk, Prometheus, Grafana, and Log4j for proactive performance optimization and product support.
+
+________________________________________
+
+TECHNICAL SKILLS
+Programming Languages	JAVA 17/11/8/7, PHP, Java Script, and PL/SQL, Golang
+Web Technologies	HTML, XML, CSS, Java Script, Angular JS, Angular 14/ 9/8/7,React JS, AJAX, JSP, jQuery, DTD, Java Beans, JMS
+J2EE Technologies	Servlets, JSP, JSF, Servlets, JMS, JNDI, Web Services, JDBC, SOAP
+Methodology	 Agile, Scrum ,TDD, Waterfall
+App/Web servers	Apache Tomcat, Web logic, Apache Server, JBoss, Kafka, Apache Camel
+Applications Frameworks	Spring 4/5, Hibernate, Struts, JSP, Spring Boot, Spring MVC, MuleSoft
+Web Services	SOAP, WSDL, AXIS, JAX-­‐WS, REST, JSON, JAX-­‐RS
+ CI/CD	Git ,SVN ,CVS ,Bit Bucket ,Docker Jenkins  ,Maven ,Gradle
+Databases	Oracle, MySQL, MongoDB, Cassandra
+Testing Tools	JUnit, Mockito, TestNG, Postman
+Cloud technologies 	 GCP, Aws, Azure, PCF
+________________________________________
+PROFESSIONAL EXPERIENCE
+UPS -Atlanta, GA,
+Role: Senior Java Full Stack Developer                                                                        Jan 2023 – Present
+
+•	Designed and developed cloud-native microservices using Java 17, Spring Boot, Spring MVC, and Spring Cloud following REST and domain-driven design principles. 
+•	Built modular service layers for package routing and lifecycle management to ensure scalability and maintainability.
+•	Enhanced REST API usability by implementing pagination, sorting, and filtering using Spring Data, improving client-side navigation for large datasets while optimizing response time and bandwidth usage.
+•	Implemented transaction management and connection pooling to support high-throughput and reliable microservices
+•	Built responsive front-end applications using React JS, Redux, Context API, HTML5, CSS3, JavaScript, Bootstrap, and jQuery.
+•	Designed and implemented event-driven architecture using Apache Kafka with producers and consumers for scan and routing events. 
+•	Implemented serialization, retries, idempotency, and dead-letter queues for fault-tolerant processing.
+•	Secured microservices using Spring Security, OAuth2, and JWT for API authentication and authorization. Integrated SAML-based SSO to support secure enterprise access and compliance requirements.
+•	Collaborated with Product Owners and business stakeholders to gather requirements, refine user stories, define acceptance criteria, and review functional and technical designs.
+•	Owned sprint backlog items and coordinated with UI, backend, QA, and DevOps teams for sprint deliveries in Agile Scrum.
+•	Wrote clean, efficient, and maintainable code following SOLID principles, OOP concepts, design patterns, and enterprise coding standards.
+•	Performed peer code reviews to ensure code quality, reusability, adequate test coverage, and adherence to architectural and coding standards.
+•	Conducted technical design reviews and peer code reviews ensuring use of design patterns, SOLID principles, scalability, and security best practices.
+•	Integrated SonarQube into CI/CD pipelines to enforce code quality, detect vulnerabilities, and reduce technical debt.
+•	Analyzed business requirements and translated them into detailed technical designs, service contracts, and data models, ensuring alignment between business needs and system architecture.
+•	Created and maintained technical documentation including system design documents, API specifications, and integration guidelines, along with process flow and data flow diagrams.
+•	Designed persistence layers using Oracle and GCP Cloud SQL, optimizing queries and stored procedures.
+•	Built workflow automation using Camunda BPMN for package exception handling and manual review processes. Integrated workflows with Spring Boot services and Kafka events to improve operational efficiency.
+•	Containerized applications using Docker and deployed on Kubernetes clusters on GCP (GKE) with auto-scaling and rolling deployments.
+•	Built CI/CD pipelines using Jenkins, Maven, GitHub, and integrated with GCP container registry and deployment pipelines.
+•	Built scalable service and UI layers deployed on Google Cloud Platform (GCP) using Google Kubernetes Engine (GKE), Cloud Load Balancing, Cloud SQL, Cloud Storage, and Pub/Sub.
+
+•	Implemented secure configuration using GCP Secret Manager and Kubernetes Secrets.
+•	Configured monitoring using GCP Cloud Monitoring (Stackdriver), Prometheus, and Grafana for JVM metrics, API latency, Kafka lag, and Kubernetes health.
+•	Delivered sprint demos to client stakeholders and mentored junior developers on Spring Boot, Kafka, and GCP deployment practices.
+•	Implemented real-time monitoring using Prometheus and Grafana for JVM metrics, API latency, Kafka lag, and Kubernetes resources. Configured alerts and dashboards to support SLA compliance and 24/7 observability.
+•	Worked in Agile/Scrum using JIRA and GitHub for sprint execution and code reviews. Collaborated with UI, DevOps, QA, and business teams for timely, high-quality delivery.
+Environment:
+Java 17, Spring Boot, Spring MVC, Spring Cloud, Spring Security, Spring Data, Hibernate, REST APIs, React JS, Kafka, Oracle, GCP (GKE, Cloud SQL, Cloud Storage, Pub/Sub, Cloud Monitoring, Cloud Logging, Secret Manager), Docker, Kubernetes, Jenkins, Maven, GitHub, SonarQube, Prometheus, Grafana, Camunda, JUnit, Mockito, Postman, JIRA
+________________________________________
+
+ Verizon – Atlanta, GA
+ Role: Senior Java Full Stack Developer                                                                    Jan 2021 – Dec 2022
+
+•	Developed Spring Boot–based microservices using Java 11, Spring MVC, and Spring Data, supporting internal network provisioning, service activation, and fault-management workflows while following REST standards and MVC architecture.
+•	Built responsive internal web applications using ReactJS, JavaScript, HTML5, CSS3, and AJAX, integrating with backend REST APIs to provide real-time visibility into network service status, device health, and provisioning activities.
+•	Implemented Redux and Context API for efficient state management and integrated React-based frontend applications with Spring Boot microservices through REST APIs.
+•	Developed reusable UI components with role-based access control (RBAC) and optimized application performance using lazy loading and memoization techniques.
+•	Implemented persistence layers using Apache Cassandra as the primary NoSQL database, designing data models optimized for high-volume telemetry and service event storage while supporting fast read/write access patterns.
+•	Developed backend business logic using Core Java (Collections, multithreading, concurrency utilities) and implemented complex data processing workflows to support large-scale telecom service transactions.
+•	Used JDBC and Spring Data to interact with relational and NoSQL databases for transactional and telemetry data processing.
+•	Applied design patterns such as Factory, Singleton, DAO, and Builder to improve modularity and maintainability.
+•	Worked closely with technical delivery leads to plan project activities, estimate tasks, and ensure deliverables were completed within project schedules while supporting functional and performance testing phases.
+•	Coordinated with cross-application teams to identify, analyze, and resolve complex technical issues across development, QA, and production environments.
+•	Integrated Spring MVC with Hibernate and REST APIs to implement DAO layers and enable seamless interaction between service modules.
+•	Developed Java-based APIs for AWS Lambda to integrate internal services with cloud-native event processing and scheduled automation tasks.
+•	Utilized Amazon S3 for application artifact storage, log archiving, and backup management, and configured CloudWatch for centralized logging, metrics, and alerting on microservices and infrastructure health.
+•	Built and maintained CI/CD pipelines using Jenkins and Maven, automating code builds, unit testing, Docker image creation, and deployments across multiple AWS environments.
+•	Implemented IAM roles and policies, VPC networking, and load balancing using Application Load Balancer (ALB) to secure service-to-service communication and control access across AWS environments.
+•	Implemented logging using Log4j and centralized monitoring with Splunk, creating dashboards and searches to track API failures, service latency, and infrastructure-level issues.
+•	Configured Datadog APM and infrastructure monitoring to track JVM memory usage, thread health, request latency, and service availability across distributed microservices.
+•	Used GitHub for version control, branching strategies, and release management, ensuring controlled promotion of builds across environments.
+Environment :
+Java 11, J2EE, Spring 5.x, Spring Boot, Spring MVC, Spring Data, Hibernate 5.x, Microservices, REST APIs, ReactJS, JavaScript, HTML5, CSS3, AJAX, Apache Cassandra, Core Java (Collections, Multithreading), Docker, Kubernetes (AWS EKS), AWS EC2, AWS Lambda, AWS CloudFormation, AWS Auto Scaling, Linux, Apache Tomcat, Jenkins, Maven, CI/CD, GitHub, Log4j, Splunk, Datadog, JUnit.
+
+
+
+
+________________________________________
+
+
+
+
+
+MTB Bank – Atlanta, GA
+Role: Full Stack Java Developer                                                                            Jan 2019 – Dec 2020
+
+•	Designed and developed Spring Boot–based microservices using Java 8, Spring MVC, Spring Data, and Hibernate, supporting internal banking workflows such as account servicing, transaction processing, and customer profile management using RESTful APIs.
+•	Built responsive single-page applications using Angular 8, JavaScript, HTML5, CSS3, Bootstrap, and jQuery, implementing reusable components, UI routing, and role-based views based on business wireframes.
+•	Implemented DAO layers using Spring ORM and Hibernate, enabling transactional data access and declarative transaction management across service modules.
+•	Developed SOAP-based services for legacy system integration while exposing REST APIs for modern internal applications.
+•	Secured microservices using Spring Security, implementing authentication, authorization, and access-control policies integrated with enterprise identity systems.
+•	Implemented centralized logging using the ELK stack (Elasticsearch, Logstash, Kibana) to aggregate logs from microservices and Kubernetes pods and built Kibana dashboards for production monitoring and audit reporting.
+•	Built ETL pipelines using Spark SQL and T-SQL for transactional and reporting data ingestion into enterprise platforms, integrated with AWS services.
+•	Built distributed messaging solutions using JMS to enable reliable asynchronous communication between banking services and downstream systems.
+•	Configured Kubernetes Horizontal Pod Autoscalers (HPA) to dynamically scale microservices based on CPU and memory utilization during peak banking transaction periods.
+•	Deployed Dockerized microservices on Kubernetes clusters and integrated data pipelines with AWS services such as S3, EMR, and RDS for scalable processing and storage.
+•	Automated build and deployment pipelines using Jenkins and Maven, deploying EAR applications and REST services on JBoss Application Server across development, QA, and production environments.
+•	Actively participated in Agile SDLC, collaborating with business analysts, QA teams, and DevOps engineers during sprint planning, development, testing, and production releases.
+Environment:
+Java 8, J2EE, Spring Framework (Spring Boot, Spring MVC, Spring ORM, Spring Security), Hibernate, Microservices, REST APIs, SOAP Web Services, Angular 8, HTML5, CSS3, JavaScript, Bootstrap, jQuery, Oracle Database, JMS, Docker, Kubernetes, Helm, ELK Stack (Elasticsearch, Logstash, Kibana), Spark SQL, T-SQL, Jenkins, Maven, JBoss Application Server, Log4j, Jira, Eclipse, GitHub, SVN.
+________________________________________
+NYS (New York State) – Albany, NY
+Role: Full Stack Java Developer                                                                                                  Jan 2016 – Dec 2018
+
+•	Designed and developed REST-based government applications using Java 8, Spring Boot, Spring MVC, and Hibernate to support citizen services and internal state data processing systems in an Agile environment.
+•	Built responsive front-end modules using AngularJS, JSP, HTML, CSS, JavaScript, Bootstrap, and jQuery, integrating with backend REST services to deliver secure web portals for public sector users.
+•	Developed end-to-end application layers including controllers, service components, and DAO modules using Spring MVC architecture and Core Java, implementing clean separation of concerns and reusable business logic.
+•	Built batch-processing systems using Spring Batch and Apache Camel to automate large-scale data migration, validation, and transformation of legacy state records across multiple government systems.
+•	Implemented asynchronous processing using JMS and Apache Camel routing to support high-volume inter-system data exchange and fault-tolerant messaging pipelines between legacy and modern platforms.
+•	Managed data persistence using Oracle 12c with Hibernate ORM, designing optimized schemas and writing complex SQL queries and stored procedures to handle millions of state records efficiently and reliably.
+•	Implemented application security using Spring Security, enabling session management, CSRF protection, and role-based access control for government-regulated systems.
+•	Containerized Java applications using Docker and supported migration of on-premise systems to Azure Virtual Machines and Azure Blob Storage for scalable hosting and secure storage of state services
+•	Designed and maintained CI/CD pipelines using Azure DevOps and Git, enabling automated builds, testing, and continuous deployment.
+•	Implemented network security controls using Azure Network Security Groups (NSGs) and access policies in coordination with infrastructure teams to meet government compliance standards.
+Environment :
+Java 8, J2EE, Spring Framework, Spring Boot, Spring MVC, Spring Batch, Spring Security, Hibernate, REST APIs, SOAP, JMS, Apache Camel, AngularJS, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Oracle 12c, JDBC, Docker, Azure Virtual Machines, Azure Blob Storage, Azure DevOps, Azure Monitor, Git, Maven, WebLogic, Eclipse, JUnit, Agile, JSON, JSP, JSTL________________________________________
+
+
+
+Vistra- Irving, TX
+Role: Java Developer                                                                                                                          Jan 2013 – Dec 2015
+
+•	Developed enterprise Java applications using Spring Framework, Spring MVC, Hibernate ORM, and RESTful services to support core financial operations including customer accounts, transaction processing, and reporting systems.
+•	Built UI components using JSP, HTML, JavaScript, AJAX, and jQuery to integrate business logic with the presentation layer and improve usability of internal financial applications.
+•	Implemented backend business logic using Core Java (Collections, Exception Handling, Multithreading) to handle high-volume financial transactions with reliability and accuracy.
+•	Designed and implemented RESTful APIs using Spring MVC to enable secure integration between internal financial systems and third-party services.
+•	Implemented Spring Batch and Apache Camel to support batch processing of daily financial transactions, statement generation, and system-to-system data reconciliation.
+•	Secured applications using Spring Security and Spring AOP, implementing authentication, authorization, and centralized logging to meet financial compliance and audit requirements.
+•	Worked extensively with Oracle databases using JDBC and PL/SQL to perform CRUD operations, manage transactions, and ensure data consistency and integrity across financial modules.
+•	Used Maven for build automation and dependency management and SVN for version control to support collaborative development across teams.
+
+________________________________________
+Environment :
+Java 7, J2EE, Spring 3, Spring MVC, Hibernate, RESTful Web Services, Spring Batch, Apache Camel, Spring Security, Spring AOP, Oracle, JDBC, PL/SQL, JSP, HTML, JavaScript, AJAX, jQuery, Maven________________________________________EDUCATION
+Bachelor of Science in Computer Science
+Aug 2008 – May 2012________________________________________
